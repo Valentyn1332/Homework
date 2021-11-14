@@ -1,7 +1,3 @@
 Hello
 11
-<<<<<<< HEAD
 Holla
-=======
->>>>>>> parent of ed37e47 (finish second part)
-ola
